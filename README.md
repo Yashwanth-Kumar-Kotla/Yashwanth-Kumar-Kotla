@@ -33,7 +33,7 @@ Hands-on experience across the full DS lifecycle: from EDA and feature engineeri
 
 | Category | Technologies |
 |:---|:---|
-| **Languages** | Python · Java · C · SQL · MySQL |
+| **Languages** | Python · Java · C · SQL  |
 | **ML / Data Science** | Scikit-Learn · Pandas · NumPy · Linear Regression · Logistic Regression · SVM · Random Forest · XGBoost · Feature Engineering |
 | **Data & EDA** | Exploratory Data Analysis · Data Cleaning · Correlation Analysis · Seaborn · Matplotlib |
 | **Visualisation & BI** | Tableau · Power BI · Streamlit · HTML5 · CSS3 |
@@ -83,7 +83,7 @@ Hands-on experience across the full DS lifecycle: from EDA and feature engineeri
 | **Approach** | Data cleaning → EDA → feature selection → classification model training → Tableau dashboard for stakeholder reporting |
 | **Key Insight** | Glucose level and BMI are the strongest predictive features; class imbalance required careful handling |
 | **Stack** | Python · Scikit-Learn · Pandas · Seaborn · Tableau |
-| **Repo** | *(link your repo here)* |
+| **Repo** | *(https://github.com/Yashwanth-Kumar-Kotla/Diabetes-Prediction-using-Machine-Learning-with-Python)* |
 
 ---
 
@@ -96,7 +96,7 @@ Hands-on experience across the full DS lifecycle: from EDA and feature engineeri
 | **Approach** | End-to-end analysis — ingestion → cleaning → aggregation → visualisation → executive-ready report |
 | **Key Insight** | Identified seasonal demand patterns and underperforming product segments; automated ETL reduced reporting overhead |
 | **Stack** | Python · Pandas · Matplotlib · Excel · Power BI |
-| **Repo** | *(link your repo here)* |
+| **Repo** | *(https://github.com/Yashwanth-Kumar-Kotla/Linear_regression_on_AdvertisingSales_without_sklearn)* |
 
 ---
 
