@@ -21,7 +21,7 @@
 
 ## 👋 About Me
 
-Master's student in **Data Science** at Webster University, building end-to-end machine learning pipelines and deploying predictive models as production-ready web applications. My work spans healthcare analytics, regression modelling, classification, and interactive dashboarding — with a focus on turning complex data into clear, measurable business value.
+Master's student in **Data Science** at Webster University, building end-to-end machine learning pipelines and deploying predictive models as production-ready web applications. My work spans healthcare analytics, regression modelling, classification, and interactive dashboarding with a focus on turning complex data into clear, measurable business value.
 
 Hands-on experience across the full DS lifecycle: from EDA and feature engineering through model training, evaluation, and Streamlit deployment. Comfortable working with Python, SQL, and BI tools in fast-paced, project-driven environments.
 
