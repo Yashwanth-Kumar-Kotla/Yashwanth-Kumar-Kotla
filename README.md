@@ -30,7 +30,4 @@ viz        = ["Streamlit", "Plotly", "Tableau", "Power BI", "Seaborn"]
 
 ---
 
-## GitHub Stats
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Yashwanth-Kumar-Kotla&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwanth-Kumar-Kotla&theme=tokyonight&hide_border=true&layout=compact&langs_count=6)
