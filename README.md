@@ -16,7 +16,6 @@
 | 🧠 [Aura Dual Intelligence](https://github.com/Yashwanth-Kumar-Kotla/aura-dual-intelligence) | GPT-4 + Gemini collaboration engine for higher accuracy reasoning | GPT-4 · Gemini · JavaScript | [▶ Demo](https://www.auraduo.app/) |
 | 🏥 [Insurance Category Predictor](https://github.com/Yashwanth-Kumar-Kotla/Insurance_Premium_category_predictor) | Predicts medical insurance charges — R² 0.77 | Scikit-learn · FastAPI · Streamlit · Docker | [▶ Demo](https://insurance-cat.streamlit.app/) |
 
-
 ---
 
 ## Skills
@@ -32,4 +31,23 @@ llm        = ["Langchain", "RAG", "Agents", "Tools", "Loops"]
 
 ---
 
+## How to explore
 
+- Click any project name to view the repository.
+- Click the Demo links to open live demos where available.
+- Use the LinkedIn or Email badges above to contact me.
+
+---
+
+## Architecture diagram
+
+```mermaid
+graph TB
+A[Visitor] --> B[Readme]
+B[Readme] --> C[Featured Projects]
+C[Featured Projects] --> D[Project Repositories]
+D[Project Repositories] --> E[Live Demos]
+E[Live Demos] --> F[Contact Links]
+```
+
+---
